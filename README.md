@@ -1,5 +1,8 @@
 ## Projeto para Inteligência Artificial
 
+![](digdug.gif)
+
+
 # ia-digdug
 DigDug clone for AI teaching
 
